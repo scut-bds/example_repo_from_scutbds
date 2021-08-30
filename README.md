@@ -1,4 +1,5 @@
 # exampe_repo_from_scutbds
+[![License](https://img.shields.io/github/license/scut-bds/exampe_repo_from_scutbds)]
 ![logo](./figure/logo.png)
 
 
@@ -16,3 +17,17 @@ This is an open source project specification for [Research Center of Body Data S
 * [Markdown](http://www.markdown.cn/): Markdown is a text-to-HTML conversion tool used on the Web. It can generate structured HTML documents in a simple, easy-to-read and easy-to-write text format. Currently github, Stackoverflow and other websites support this format.
 
 ## Structure of the Whole Repository
++ ```./config```: Store the model's hyperparameter configuration, vocabulary, etc.
++ ```./data```: Store the data set or data sample of the training model in .txt, .json or .csv format
++ ```./eval```: Store the code used to verify the model or evaluate the results of the model output
++ ```./figure```: Storage related pictures of the project
++ ```./model```: Store model code, the folder name can also be baselines or model name, etc.
++ ```./utils```: Store the code to load the data set
++ ```LICENSE```: The copyright permission selected when github created the repository, the automatically generated file
++ ```README.md```: English version description of the project
++ ```README-zh.md```: Chinese version description of the project
++ ```requirements.txt```: the requirement file for running the model
++ ```run_train_model.sh```： the bash command file for running the model
+
+
+

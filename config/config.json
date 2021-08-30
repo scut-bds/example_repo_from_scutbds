@@ -1,0 +1,11 @@
+{
+  "afn": "gelu",
+  "attn_pdrop": 0.1,
+  "resid_pdrop": 0.1,
+  "layer_norm_epsilon": 1e-05,
+  "n_embd": 768,
+  "n_head": 12,
+  "n_layer": 12,
+  "n_positions": 513,
+  "vocab_size": 13088
+}

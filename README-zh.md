@@ -14,4 +14,16 @@ README: [English](https://github.com/scut-bds/exampe_repo_from_scutbds/blob/main
 * [Markdown](http://www.markdown.cn/): Markdown 是一个 Web 上使用的文本到HTML的转换工具，可以通过简单、易读易写的文本格式生成结构化的HTML文档。目前 github、Stackoverflow 等网站均支持这种格式。
 
 ## 整个仓库的结构
++ ```./config```: 存放模型的超参数配置、词表等
++ ```./data```： 存放训练模型的数据集或者数据样本，为.txt或者.json或者.csv等格式
++ ```./eval```： 存放用于验证模型或者评估模型输出的结果的好坏的代码
++ ```./figure```: 存放仓库相关的图片
++ ```./model```: 存放模型代码，该文件夹命名也可以为baselines或者模型名字等等
++ ```./utils```: 存放读取数据集的代码
++ ```LICENSE```: github创建仓库时选择的版权许可，自动生成的文件
++ ```README.md```: 仓库的英文版本说明
++ ```README-zh.md```: 仓库的中文版本说明
++ ```requirements.txt```: 仓库的依赖说明
++ ```run_train_model.sh```: 运行模型的bash命令文件
 
+**说明**: 上面的并非唯一的结构，大家可以结合实际调整目录/文件命名，也可增删相应的目录/文件。
