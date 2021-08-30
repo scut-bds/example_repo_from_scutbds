@@ -1,0 +1,8 @@
+{
+  "afn": "gelu",
+  "attn_pdrop": 0.1,
+  "n_layer": 1,
+  "n_embd": 256,
+  "hidden_size": 256,
+  "vocab_size": 13088
+}

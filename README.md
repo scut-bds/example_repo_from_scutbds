@@ -1,5 +1,5 @@
 # exampe_repo_from_scutbds
-![logo](./logo.png)
+![logo](./figure/logo.png)
 
 
 **Author**: [Yirong Chen](https://github.com/scutcyr)

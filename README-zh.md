@@ -1,5 +1,5 @@
 # exampe_repo_from_scutbds
-![logo](./logo.png)
+![logo](./figure/logo.png)
 **Author**: [陈艺荣](https://github.com/scutcyr)
 
 README: [English](https://github.com/scut-bds/exampe_repo_from_scutbds/blob/main/README.md) | [中文](https://github.com/scut-bds/exampe_repo_from_scutbds/blob/main/README-zh.md)
