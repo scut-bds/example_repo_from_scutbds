@@ -28,3 +28,6 @@ README: [English](https://github.com/scut-bds/exampe_repo_from_scutbds/blob/main
 + ```run_train_model.sh```: 运行模型的bash命令文件
 
 **说明**: 上面的并非唯一的结构，大家可以结合实际调整目录/文件命名，也可增删相应的目录/文件。
+
+## README.md文档的结构
+* Introduction: 通常用一句话来表明项目的用途，如果有相对应发表的论文或者数据集，则需要给出相应的链接。

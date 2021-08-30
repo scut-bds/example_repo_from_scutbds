@@ -1,5 +1,5 @@
 # exampe_repo_from_scutbds
-![License](https://img.shields.io/github/license/scut-bds/exampe_repo_from_scutbds)![Download](https://img.shields.io/github/downloads/scut-bds/exampe_repo_from_scutbds/total)
+![License](https://img.shields.io/github/license/scut-bds/exampe_repo_from_scutbds)![Download](https://img.shields.io/github/downloads/scut-bds/exampe_repo_from_scutbds/total)![repo_size](https://img.shields.io/github/repo-size/scut-bds/exampe_repo_from_scutbds)
 ![logo](./figure/logo.png)
 
 
@@ -29,5 +29,14 @@ This is an open source project specification for [Research Center of Body Data S
 + ```requirements.txt```: the requirement file for running the model
 + ```run_train_model.sh```： the bash command file for running the model
 
+**Note**: The above is not the only structure. You can adjust the name of directory/file according to the actual situation, and you can also add or delete the unneeded directory/file.
+
+## Structure of the README.md file
+* Introduction: One sentence is usually used to indicate the purpose of the project. If there is a corresponding published paper or data set, the corresponding link needs to be given. For example, The text below is an introduction from the project [BERT](https://github.com/google-research/bert).
+
+BERT, or Bidirectional Encoder Representations from Transformers, is a new method of pre-training language representations which obtains state-of-the-art results on a wide array of Natural Language Processing (NLP) tasks.
+
+Our academic paper which describes BERT in detail and provides full results on a number of tasks can be found here: [https://arxiv.org/abs/1810.04805](https://arxiv.org/abs/1810.04805).
 
 
+* 
