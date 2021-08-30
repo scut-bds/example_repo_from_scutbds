@@ -1,0 +1,2 @@
+# exampe_repo_from_scutbds
+华南理工大学人体数据科学实验室开源项目规范
