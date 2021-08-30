@@ -1,4 +1,5 @@
 # exampe_repo_from_scutbds
+![License](https://img.shields.io/github/license/scut-bds/exampe_repo_from_scutbds)![Download](https://img.shields.io/github/downloads/scut-bds/exampe_repo_from_scutbds/total)![repo_size](https://img.shields.io/github/repo-size/scut-bds/exampe_repo_from_scutbds)
 ![logo](./figure/logo.png)
 **Author**: [陈艺荣](https://github.com/scutcyr)
 

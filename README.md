@@ -1,5 +1,5 @@
 # exampe_repo_from_scutbds
-[![License](https://img.shields.io/github/license/scut-bds/exampe_repo_from_scutbds)]
+![License](https://img.shields.io/github/license/scut-bds/exampe_repo_from_scutbds)![Download](https://img.shields.io/github/downloads/scut-bds/exampe_repo_from_scutbds/total)
 ![logo](./figure/logo.png)
 
 
